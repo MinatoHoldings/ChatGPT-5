@@ -4,6 +4,7 @@
 
 ![Diapositiva1](https://user-images.githubusercontent.com/128546115/230747914-99594136-154c-4fc1-aad7-dccf3ea786cf.PNG)
 
+Modified Spotify Client for Windows
 
 
 This beta update with the GPT-5 Generative language AI model
