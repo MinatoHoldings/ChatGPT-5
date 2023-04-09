@@ -8,7 +8,7 @@
 
 
 
-_This beta update with the GPT-5 Generative language AI model_
+## _This beta update with the GPT-5 Generative language AI model_
 
 
 
