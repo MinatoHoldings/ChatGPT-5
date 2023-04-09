@@ -13,4 +13,5 @@ this beta update with the GPT-5 Generative language AI model
 Features
 
 ✔️Added more plugins for ChatGPT 5 with the GPT-5 model
+
 ✔️ Fix Generative Outputs Asked
