@@ -1,4 +1,4 @@
-#ChatGPT 5.0
+# ChatGPT 5.0
 
 # GPT-5 AI model is the ChatGPT update for fixes and results
 
